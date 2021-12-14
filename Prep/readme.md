@@ -2,6 +2,7 @@ Given a left aligned string asked to make it center aligned.
 ///done
 
 I was asked to do some calculation given an array of integers.
+///done
 
 Find most frequent and 2nd most frequent small letter from a given string
 
