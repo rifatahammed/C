@@ -10,8 +10,8 @@ int main() {
   
 //when NULL will come, that means the word is finished
    while( words != NULL ) {
-      printf( " %s\n", token ); //printing each token
-      token = strtok(NULL, " ");
+      printf( " %s\n", words ); //printing each words
+      words = strtok(NULL, " ");
    }
    return 0;
 }
