@@ -4,7 +4,7 @@ int main()
 {
 
     char a[10] = "Rifat";
-
+    int n = 10;
     printf("%s\n",a);
 
   printf ("%10s\n",  "Right");
